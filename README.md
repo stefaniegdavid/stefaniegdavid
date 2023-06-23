@@ -1,5 +1,14 @@
 ### Hi, my name is Stefanie David! Welcome to my page! 👋
 
+**About Me:**
+- 💼 I'm a full-stack developer with a passion for building new things and being productive. 
+
+- 📈 I'm a coding bootcamp graduate from Coding Dojo
+
+- ❤️ I love writing in TypeScript and Java!
+
+- 💻 I’m interested in solving challenging problems and building things that help connect people.
+
 <!--
 **stefaniegdavid/stefaniegdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
