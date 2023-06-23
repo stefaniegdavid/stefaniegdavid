@@ -1,7 +1,7 @@
 ### Hi, my name is Stefanie David! Welcome to my page! 👋
 
 **About Me:**
-- 💼 I'm a full-stack developer with a passion for building new things and being productive. 
+- 💼 I'm a full-stack developer 
 
 - 📈 I'm a coding bootcamp graduate from Coding Dojo
 
