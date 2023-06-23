@@ -1,9 +1,9 @@
 ### Hi, my name is Stefanie David! Welcome to my page! 👋
 
 **About Me:**
-- 💻 I'm a Full-Stack Software Developer 
+- 💼 I'm a Full-Stack Software Developer 
 
-- 📈 I'm currently in Coding Dojo's Software Development Bootcamp
+- 💻 I'm currently in Coding Dojo's Software Development Bootcamp
 
 - ❤️ I love to dance and cook!
 
