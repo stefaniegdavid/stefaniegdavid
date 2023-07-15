@@ -1,5 +1,4 @@
 ### Hi, my name is Stefanie David! Welcome to my page! 👋 
-          
 **About Me:**
 - 💼 I'm a Full-Stack Software Developer
 
